@@ -23,6 +23,9 @@
         android:layout_height="wrap_content"
         android:inputType="number"
         android:hint="enter the second num" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 
     <com.google.android.material.button.MaterialButton
         android:layout_margin="10dp"
